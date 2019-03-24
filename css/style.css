@@ -1,0 +1,13 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+
+body {
+	background: url('../images/7.jpg') no-repeat center center fixed;
+	background-size: cover; 
+}
+A button{
+	background-color: blue;
+}
+
+#B button{
+	background-color: orange;
+}
