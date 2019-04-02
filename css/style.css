@@ -2,13 +2,13 @@
 
 body{
 	font-family: 'Roboto', sans-serif;
-	background: url('../images/07.jpg') no-repeat center center fixed;
+	background: url('../images/10.jpg') no-repeat center center fixed;
 	background-size: cover; 
 }
 
 .main-section{
 	margin: 0 auto;
-	margin-top: 180px;
+	margin-top: 170px;
 	padding: 0;
 }
 
@@ -21,18 +21,18 @@ body{
 
 .title-login h1{
 	color: black;
-	font-size: 25px;
-	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-family: sans-serif;
 	text-align: center;
 }
 
 .title-login{
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .form-group{
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 .form-group input{
@@ -41,19 +41,19 @@ body{
 	display: block;
 	margin: 20px auto;
 	text-align: center;
-	border: 2px solid #3498db;
+	border: 2px solid #00e6b8;
 	padding: 21px 21px 21px 21px;
 	height: 45px;
 	letter-spacing: 1px;
 	outline: none;
-	color: #2c3e50;
+	color: orange;
 	border-radius: 24px;
 	transition: 0.25s;
 }
 
 .form-group input:focus{
 	width: 80%;
-	border-color: #2ecc71;
+	border-color: #00e6b8;
 }
 
 .form-input{
@@ -72,6 +72,11 @@ body{
 }
 
 .form.input button:hover{
-	background: #2ecc71;
+	background: #00e6b8;
+}
+
+.container {
+color : orange ;
+
 }
 
